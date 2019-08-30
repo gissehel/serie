@@ -57,3 +57,5 @@ tests/*.actual.output
 
 
 bin/
+@*
+serie.html
